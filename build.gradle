@@ -12,5 +12,8 @@ repositories {
 
 dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.3.11'
+    compile 'org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec:1.0.0.Final'
+    compile 'org.jboss.resteasy:resteasy-client:3.5.0.Final'
     testCompile group: 'junit', name: 'junit', version: '4.11'
+    testCompile("org.spockframework:spock-core:1.0-groovy-2.4")
 }
