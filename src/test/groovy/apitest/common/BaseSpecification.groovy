@@ -7,7 +7,7 @@ import spock.lang.Specification
 /**
  * Created by demyr on 10-Nov-19.
  */
-class BaseTest extends Specification{
+class BaseSpecification extends Specification{
 
     private synchronized HttpHelper httpHelper
 
