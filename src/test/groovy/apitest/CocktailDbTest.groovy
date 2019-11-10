@@ -1,13 +1,13 @@
 package apitest
 
-import apitest.common.BaseHttp
+import apitest.common.BaseTest
 
 import spock.lang.Unroll
 
 /**
  * Created by demyr on 10-Nov-19.
  */
-class CocktailDbTest extends BaseHttp{
+class CocktailDbTest extends BaseTest{
 
     def setupSpec(){
         // Connect to DB and and add predefined objects
