@@ -1,4 +1,4 @@
-# all-stars-test
+This project performs API tests against the https://www.thecocktaildb.com/api.php
 
 Test scenarios and test infrustructure placed in src/test/groovy/apitest package
 
