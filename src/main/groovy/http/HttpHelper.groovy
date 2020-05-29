@@ -1,4 +1,4 @@
-package apitest.http
+package http
 
 import groovy.json.JsonOutput
 import groovy.json.JsonSlurper

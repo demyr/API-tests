@@ -1,4 +1,4 @@
-package apitest.http
+package http
 
 import org.jboss.resteasy.client.jaxrs.ResteasyClientBuilder
 

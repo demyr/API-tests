@@ -1,6 +1,6 @@
 package apitest
 
-import apitest.common.BaseSpecification
+import common.BaseSpecification
 
 import spock.lang.Unroll
 

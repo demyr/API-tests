@@ -1,7 +1,7 @@
-package apitest.common
+package common
 
-import apitest.http.HttpClientHelper
-import apitest.http.HttpHelper
+import http.HttpClientHelper
+import http.HttpHelper
 import spock.lang.Specification
 
 /**

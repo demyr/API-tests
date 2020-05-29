@@ -1,4 +1,4 @@
-package apitest.common
+package common
 
 /**
  * Created by demyr on 10-Nov-19.
