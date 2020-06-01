@@ -1,5 +1,6 @@
 This is a test task performed by me for a QA engineer position.
-In this task i should have chose several endpoints, came up with test scenarios against them and implement tests in any language of my preference.
+In this task i should have chose several endpoints, came up with test scenarios against them and implement tests in any 
+programming language of my preference.
 
 This project performs API tests against the https://www.thecocktaildb.com/api.php
 
