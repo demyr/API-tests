@@ -1,5 +1,6 @@
-package common
+package apitest
 
+import http.UrlConfig
 import http.HttpClientHelper
 import http.HttpHelper
 import spock.lang.Specification
@@ -15,7 +16,7 @@ class BaseSpecification extends Specification{
         if (httpHelper == null) {
             httpHelper = new HttpHelper(
                     HttpClientHelper.newClient(60),
-                    Config.restApiUrl() + '/json/v1/1'
+                    UrlConfig.restApiUrl() + '/json/v1/1'
             )
         }
         return httpHelper
